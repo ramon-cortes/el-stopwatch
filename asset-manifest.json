@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/el-stopwatch/static/css/main.b5f91c27.css",
+    "main.js": "/el-stopwatch/static/js/main.74e3d24f.js",
+    "index.html": "/el-stopwatch/index.html",
+    "main.b5f91c27.css.map": "/el-stopwatch/static/css/main.b5f91c27.css.map",
+    "main.74e3d24f.js.map": "/el-stopwatch/static/js/main.74e3d24f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5f91c27.css",
+    "static/js/main.74e3d24f.js"
+  ]
+}
